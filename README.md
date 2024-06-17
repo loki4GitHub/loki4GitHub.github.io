@@ -8,3 +8,4 @@ Hello, this is my personal page where I'm logging my Python learning process, ge
 
 [Reference Markdown site](https://github.github.com/gfm/)
 
+Info for background site: statig site generator (SSG) --> Jekyll
